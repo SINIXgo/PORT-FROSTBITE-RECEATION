@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Typhlosion.png">
+<SubTexture name="Typhlosion jijijija0000" x="0" y="0" width="346" height="196" frameX="0" frameY="0" frameWidth="346" frameHeight="196" />
+<SubTexture name="Typhlosion jijijija0001" x="346" y="0" width="346" height="195" frameX="0" frameY="0" frameWidth="346" frameHeight="195" />
+<SubTexture name="Typhlosion jijijija0002" x="0" y="196" width="345" height="195" frameX="0" frameY="0" frameWidth="345" frameHeight="195" />
+<SubTexture name="Typhlosion jijijija0003" x="0" y="391" width="344" height="193" frameX="0" frameY="0" frameWidth="344" frameHeight="193" />
+<SubTexture name="Typhlosion jijijija0004" x="345" y="196" width="344" height="194" frameX="0" frameY="0" frameWidth="344" frameHeight="194" />
+<SubTexture name="Typhlosion jijijija0005" x="344" y="391" width="343" height="193" frameX="0" frameY="0" frameWidth="343" frameHeight="193" />
+<SubTexture name="Typhlosion jijijija0006" x="692" y="0" width="343" height="193" frameX="0" frameY="0" frameWidth="343" frameHeight="193" />
+<SubTexture name="Typhlosion jijijija0007" x="692" y="193" width="343" height="193" frameX="0" frameY="0" frameWidth="343" frameHeight="193" />
+</TextureAtlas>
