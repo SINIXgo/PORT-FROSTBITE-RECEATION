@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-283,
+				-132
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": " idle"
+		},
+		{
+			"offsets": [
+				-260,
+				-97
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singUP",
+			"indices": [],
+			"name": " up"
+		},
+		{
+			"offsets": [
+				-163,
+				-134
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": " left"
+		},
+		{
+			"offsets": [
+				-367,
+				-177
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": " down"
+		},
+		{
+			"offsets": [
+				-324,
+				-129
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": " right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gold_con_el_ano_congelado",
+	"position": [
+		-830,
+		370
+	],
+	"healthicon": "cold-gold",
+	"flip_x": true,
+	"healthbar_colors": [
+		234,
+		216,
+		255
+	],
+	"camera_position": [
+		-720,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

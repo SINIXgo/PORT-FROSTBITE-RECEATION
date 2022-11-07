@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-70
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": " pikaculo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-78
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": " pikaculo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": " pikaculo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-47
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": " pikaculo",
+			"indices": []
+		},
+		{
+			"offsets": [
+				297,
+				-40
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": " pikaculo"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pikaculo_entra",
+	"position": [
+		1070,
+		240
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		55,
+		55
+	],
+	"camera_position": [
+		-580,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

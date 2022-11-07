@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				34,
+				-57
+			],
+			"indices": [],
+			"fps": 21,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "DEAD RED left"
+		},
+		{
+			"offsets": [
+				-62,
+				-64
+			],
+			"indices": [],
+			"fps": 21,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DEAD RED down"
+		},
+		{
+			"offsets": [
+				-125,
+				-59
+			],
+			"indices": [],
+			"fps": 21,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "DEAD RED right"
+		},
+		{
+			"offsets": [
+				-74,
+				-24
+			],
+			"indices": [],
+			"fps": 21,
+			"anim": "singUP",
+			"loop": false,
+			"name": "DEAD RED up"
+		},
+		{
+			"offsets": [
+				-73,
+				-60
+			],
+			"indices": [],
+			"fps": 21,
+			"anim": "idle",
+			"loop": true,
+			"name": "DEAD RED IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red_jajajapene",
+	"position": [
+		880,
+		70
+	],
+	"healthicon": "red-dead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		55,
+		55
+	],
+	"camera_position": [
+		-410,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}
